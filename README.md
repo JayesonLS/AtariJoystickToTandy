@@ -1,5 +1,7 @@
 # AtariJoystickToTandy
 
+** NOT YET TESTED - WAITING ON BOARDS FROM OSH PARK **
+
 Atari to Tandy joystick adapter that fits into a D-9 shell. Designed to support Atari compatible joysticks as well as Master System and Genesis/Megadrive controllers (2 buttons only).
 
 Public domain and provided as-is. See LICENSE for full details.
