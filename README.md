@@ -4,6 +4,8 @@ Atari to Tandy joystick adapter that fits into a D-9 shell. Designed to support 
 
 Public domain and provided as-is. See LICENSE for full details.
 
+![Image of prototypes](Prototypes.jpg)
+
 [Schematic](Schematic.pdf)
 
 [Render of Top Side](BoardTop.png)
