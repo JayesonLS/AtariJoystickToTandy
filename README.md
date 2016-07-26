@@ -25,11 +25,11 @@ Public domain and provided as-is. See LICENSE for full details.
 * 1x D-9 (9 pin D-SUB) connector, of the kind with straight pins designed to be soldered to wires.
 * 1x plastic shell for the D-9 connector. It must have space to enclose the PCB.
  
-** Note 1: ** A metal D-9 shell may be used, however extra care must be taken to avoid shorts. 
+**Note 1:** A metal D-9 shell may be used, however extra care must be taken to avoid shorts. 
 In the prototype, mylar insulation was attached to the top and bottom of the shell with double 
 sided table adhesive.
 
-** Note 2: ** Soldering wires to a DIN connector can be challenging. It is possible to purchase a 
+**Note 2:** Soldering wires to a DIN connector can be challenging. It is possible to purchase a 
 pre-soldered cable with a male 6 pin DIN connector at both ends. One cable can be cut in half
 to be used for two adapters. A continuity tester may be required to determine which pins are
 connected to which colored wires. These cables are typically sold as "Commodore 64 serial cables". 
