@@ -39,7 +39,7 @@ however no adverse affect was noted from using an unshielded cable. A cable purc
 UK eBay seller "retrocomputershack" was not ideal for this project due to the way the cable 
 shield was used for what is an analog input pin for Tandy joysticks.
 
-## Construction
+## Construction Notes
 
 This is not a simple project to construct. It is not recommended for anyone without safety knowledge and 
 prior experience in assembling electronics projects.
