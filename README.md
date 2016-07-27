@@ -38,8 +38,8 @@ connected to which colored wires. These cables are typically sold as "Commodore 
 For the prototype, a cable from UK eBay seller "amigakit" was used. Cables from two random 
 sellers in China also appeared to be suitable. Note that none of these cables were shielded,
 however no adverse affect was noted from using an unshielded cable. A cable purchased from 
-UK eBay seller "retrocomputershack" was not ideal for this project due to the way the cable 
-shield was used for what is an analog input pin for Tandy joysticks.
+UK eBay seller "retrocomputershack", while of excellent quality, was not ideal for this project
+due to the way the cable shield was used for what is an analog input pin for Tandy joysticks.
 
 ## Construction Notes
 
